@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MiAppLoginFa</string>
+    <string name="facebook_app_id">984335865924318</string>
+    <string name="fb_login_protocol_scheme">fb984335865924318</string>
+    <string name="facebook_client_token">91d7f76dd257459281d57d5b9ad9a015</string>
+</resources>
